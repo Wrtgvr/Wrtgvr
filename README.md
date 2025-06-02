@@ -6,7 +6,7 @@
 - Sometimes work on:
    - **[errsuit](https://github.com/Wrtgvr2/errsuit) library**
 - I’m currently learning Backend development
-- How to reach me: Go outside, clap your hands 3 times, jump in place 1 time, turn around 10 times, go back home, write something in my GitHub, for example, in errors section of some project
+- How to reach me: Go outside, clap your hands 3 times, jump in place 1 time, turn around 10 times, go back home and send me email
 
 ## What do I know?
 - **Previously studied Frontend development, so:** ***HTML***, ***CSS***, ***JS***, ***TS***, ***ReactJS***
