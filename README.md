@@ -2,8 +2,7 @@
 
 ## Something about me
 - Currently working on:
-   - ~~**[nothing](https://en.wikipedia.org/wiki/Nothing)**~~
-   - **[Microblog API](https://github.com/Wrtgvr/microblog-api)**
+   - **[nothing](https://en.wikipedia.org/wiki/Nothing)**
 - Sometimes work on:
    - **[errsuit](https://github.com/Wrtgvr/errsuit) library**
 - I’m currently learning Backend development
