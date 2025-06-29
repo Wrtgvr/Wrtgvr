@@ -4,6 +4,7 @@
 ## What am I doing now:
 - Currently working on:
    - **[nothing](https://en.wikipedia.org/wiki/Nothing)**
+   - **[Go Food Order Microservices](https://github.com/Wrtgvr/go-food-order-ms)**
 - Sometimes work on:
    - **[errsuit](https://github.com/Wrtgvr/errsuit) library**
 
