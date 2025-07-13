@@ -3,7 +3,8 @@
 
 ## What am I doing now:
 - Currently working on:
-   - **[nothing](https://en.wikipedia.org/wiki/Nothing)**
+   - ~~**[nothing](https://en.wikipedia.org/wiki/Nothing)**~~
+   - **[Watch Together](https://github.com/Wrtgvr/watch-together)**
 - Sometimes work on:
    - **[errsuit](https://github.com/Wrtgvr/errsuit) library**
 
