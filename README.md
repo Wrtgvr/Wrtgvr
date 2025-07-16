@@ -6,7 +6,7 @@
    - ~~**[nothing](https://en.wikipedia.org/wiki/Nothing)**~~
    - **[Watch Together](https://github.com/Wrtgvr/watch-together)**
 - Sometimes work on:
-   - **[errsuit](https://github.com/Wrtgvr/errsuit) library**
+   - ~~**[errsuit](https://github.com/Wrtgvr/errsuit) library**~~ (Frozen)
 
 ## What do I know?
 - **Previously studied Frontend development, so:** ***HTML***, ***CSS***, ***JS***, ***TS***, ***ReactJS***
