@@ -1,10 +1,10 @@
 ## Hi there, Im Danil 👋
-- Begginer Go Backend Developer
+- Begginer Go Developer
 
 ## What am I doing now:
 - Currently working on:
    - ~~**[nothing](https://en.wikipedia.org/wiki/Nothing)**~~
-   - **[Watch Together](https://github.com/Wrtgvr/watch-together)**
+   - Random small ideas
 - Sometimes work on:
    - ~~**[errsuit](https://github.com/Wrtgvr/errsuit) library**~~ (Frozen)
 
