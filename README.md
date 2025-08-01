@@ -2,6 +2,7 @@
 **Im begginer Go developer.
 Currently learning backend development, but also trying some other stuff!**
 <hr>
+
 ## 🛠️ Languages and Tools
 <div align="center">
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
