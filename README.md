@@ -19,7 +19,8 @@ Currently learning backend development, but also trying some other stuff!**
 ## What am I working on:
 - Currently working on:
    - ~~**[nothing](https://en.wikipedia.org/wiki/Nothing)**~~
-   - **[Fullstack Blog App](https://github.com/Wrtgvr/blog-app)**
+   - **small projects just to try a technology I never used**
+   - **random small ideas**
 - Sometimes work on:
    - ~~**[errsuit](https://github.com/Wrtgvr/errsuit) library**~~ (Frozen)
 <hr>
