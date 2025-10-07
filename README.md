@@ -20,10 +20,9 @@ Currently learning backend development, but also trying some other stuff!**
 - Currently working on:
    - ~~**[nothing](https://en.wikipedia.org/wiki/Nothing)**~~
    - **[Endpoints monitor](https://github.com/Wrtgvr/endpoints-monitor)**
+- Sometimes work on:
    - **small projects just to try a technology I never used**
    - **random small ideas**
-- Sometimes work on:
-   - ~~**[errsuit](https://github.com/Wrtgvr/errsuit) library**~~ (Frozen)
 <hr>
 
 ## Stats:
