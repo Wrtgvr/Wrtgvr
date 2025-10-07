@@ -19,6 +19,7 @@ Currently learning backend development, but also trying some other stuff!**
 ## What am I working on:
 - Currently working on:
    - ~~**[nothing](https://en.wikipedia.org/wiki/Nothing)**~~
+   - **[Endpoints monitor](https://github.com/Wrtgvr/endpoints-monitor)**
    - **small projects just to try a technology I never used**
    - **random small ideas**
 - Sometimes work on:
