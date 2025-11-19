@@ -18,7 +18,7 @@ Currently learning backend development, but also trying some other stuff!**
 
 ## What am I working on:
 - Currently working on:
-   - **[nothing](https://en.wikipedia.org/wiki/Nothing)**
+   - ~~**[nothing](https://en.wikipedia.org/wiki/Nothing)**~~
    - **[Uptime Monitor](https://github.com/Wrtgvr/uptime-monitor)**
 - Sometimes work on:
    - **small projects just to try a technology I never used**
