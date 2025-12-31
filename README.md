@@ -1,6 +1,7 @@
 # Hello, Im Daniil 👋
-**Im begginer Go developer.
-Currently learning backend development, but also trying some other stuff!**
+# *currently inactive*
+**Im Go developer.
+Mostly learning backend development, but also trying some other stuff**
 <hr>
 
 ## 🛠️ Languages and Tools
