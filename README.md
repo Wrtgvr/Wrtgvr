@@ -1,7 +1,6 @@
 # Hello, Im Daniil 👋
 # *currently inactive*
-**Im Go developer.
-Mostly learning backend development, but also trying some other stuff**
+бубубу бебебе
 <hr>
 
 ## 🛠️ Languages and Tools
@@ -20,11 +19,11 @@ Mostly learning backend development, but also trying some other stuff**
 
 ## What am I working on:
 - Currently working on:
-   - ~~**[nothing](https://en.wikipedia.org/wiki/Nothing)**~~
-   - **[Uptime Monitor](https://github.com/Wrtgvr/uptime-monitor)**
+   - **[nothing](https://en.wikipedia.org/wiki/Nothing)**
 - Sometimes work on:
    - **small projects just to try a technology I never used**
    - **random small ideas**
+   - **a bit of game dev stuff**
 <hr>
 
 ## Stats:
